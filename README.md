@@ -1,7 +1,3 @@
-Here’s a professional, background-oriented README for your **Rental Platform Move Smart Contract** project. I’ve written it in a style suitable for GitHub or a technical report, highlighting motivation, architecture, and usage. I included both English and Chinese versions as you usually prefer.
-
----
-
 # Rental Platform on Sui Move
 
 ## Background
